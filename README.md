@@ -1,9 +1,9 @@
-# flex-froggy-solutions
-
+<head>
 <link rel="stylesheet" href="readme.css">
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans" rel="stylesheet">
+</head>
 
-<h1>Solutions to Flexbox Froggy<h1>
+<h1 align="center">Solutions to Flexbox Froggy<h1>
 
 <h2 align="center">1</h2>
 <p align="center"><img src="img/0.png"></p>
