@@ -6,7 +6,7 @@
 <h1>Solutions to Flexbox Froggy<h1>
 
 <h2>1</h2>
-<p align="center">![Solution 1](img/0.png)</p>
+<p align="center">img src="img/0.png"</p>
 <h2>2</h2>
 <p align="center">![Solution 2](img/1.png)</p>
 <h2>3</h2>
